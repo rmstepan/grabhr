@@ -6,4 +6,4 @@ Prerequisites:
   - Python2.7x
   - Selenium Webdriver
   - Phantomjs (now deprecated, you may want to switch to another headless driver ie. Chrome or Firefox)
-  
+  - BeautifulSoup
