@@ -1,4 +1,4 @@
-# HiRES
+# grabhr
 
 This is a python script utility that let you download high resolution images from Google, Pexel and Flickr. All you have to do is enter the keyword you want.
 
